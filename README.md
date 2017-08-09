@@ -33,3 +33,12 @@ DHT11
 ![alttext](https://github.com/jokermarkk/Database/blob/master/1%20fingerprint.jpg)
 
 ![alttext](https://github.com/jokermarkk/Database/blob/master/2%20fingerprint.jpg)
+
+.......................................................................................................................................
+
+ความคิดสร้างสรรค์
+
+เปิด - ปิด หลอด LED ผ่าน Firebase
+วิธีการต่อขาหลอดLED
+
+![alttext](https://github.com/jokermarkk/Database/blob/master/%E0%B8%AB%E0%B8%A5%E0%B8%AD%E0%B8%94%E0%B9%84%E0%B8%9F.jpg)
