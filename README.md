@@ -26,4 +26,9 @@ DHT11
 
    โดยใช้แหล่งจ่ายแรงดัน VDD ขนาด 3-5.5 VDC ครับ  ซึ่งข้อดีคือจะทำให้ DHT11 นี้สามารถใช้งานได้กับ Arduino หลายรุ่น แต่ในที่นี้เราจะใช่ Arduno NodeMCU
 .......................................................................................................................................
+
 วิธี ดู fingerprint ของเว็บเรา ครับ แต่ต้องเป็นตัวใหญ่ ทั้งหมด
+
+![alttext](https://github.com/jokermarkk/Database/blob/master/1%20fingerprint.jpg)
+
+![alttext](https://github.com/jokermarkk/Database/blob/master/2%20fingerprint.jpg)
