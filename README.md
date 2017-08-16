@@ -64,7 +64,13 @@
 นำขา + Led ต่อกับ ขา D6 ของ NodeMCU และขา - ของ Led ต่อกับ กราวด์(Gnd)ของ NodeMCU
 
 ในการสั่ง เปิด-ปิด ไฟ Led จะรับคำสั่งจาก Firebase ถ้าเป็น 0 = ปิดไฟ ,1 = เปิดไฟ 
+
+![alttext](https://github.com/jokermarkk/Database/blob/master/%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%95%E0%B9%88%E0%B8%AD%20node%20MCU%20%E0%B8%81%E0%B8%B1%E0%B8%9A%20LED.jpg)
 .......................................................................................................................................
+
+# วงจรรวม
+
+![alttext](https://github.com/jokermarkk/Database/blob/master/%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%95%E0%B9%88%E0%B8%AD%20node%20MCU%20%E0%B8%81%E0%B8%B1%E0%B8%9A%20%E0%B8%88%E0%B8%AD%20LCD%20LED%20dht11.jpg)
 
 # รายชื่อ สมาชิก
 1. นาย ชัยพร สุรินทร์ตะ
